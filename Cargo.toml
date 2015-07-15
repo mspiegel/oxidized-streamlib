@@ -1,0 +1,4 @@
+[package]
+name = "streamlib"
+version = "0.1.0"
+authors = ["spiegel <spiegel@addthis.com>"]
